@@ -1,0 +1,17 @@
+
+#header{
+    display: flex;
+    flex-wrap: wrap;
+}
+#headings{
+    display: flex;
+    flex-wrap: wrap;
+}
+#body{
+    display: flex;
+    flex-wrap: wrap;
+}
+#fotter{
+    display: flex;
+    flex-wrap: wrap;
+}
